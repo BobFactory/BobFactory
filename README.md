@@ -6,9 +6,9 @@
 ---
 Mobile development enthusiast working with android for over 6 years. I am passionate about all the things that we can do with mobile phones and 
 consitently keep implementing new solutions through my side projects. I am also a big fan of architecting code and maintaining code quality because I beleive
-a well architected application strengthens the foundation and improves scalability. 
+a well architected application strengthens the foundations and improves scalability. 
 <br/><br/>
-Moreover as a developer, I like to keeps my code as DRY (Do not Repeat Yourself) as possible and eventually I like to have codebase where everything is utility fuctions or extension funtions that can be reused everywhere so I can focus on developing features more. 
+Moreover as a developer, I like to keep my code as DRY (Do not Repeat Yourself) as possible and eventually I like to have a codebase where everything is a utility function or extension funtion that can be reused everywhere so I can focus on developing features more. 
 <br/><br/>
 
 I also work as an independent contrator in my spare time. You can reach out to me for 
