@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-bawender.y@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bawender58@gmail.com)](mailto:bawender58@gmail.com)
 [![GitHub BobFactory](https://img.shields.io/github/followers/BobFactory?label=follow&style=social)](https://github.com/BobFactory)
 ---
-Mobile development enthusiast working with android for over 6 years. I am passionate about all the things that we can do with mobile phones and 
+Mobile development enthusiast working with android for over 10 years. I am passionate about all the things that we can do with mobile phones and 
 consitently keep implementing new solutions through my side projects. I am also a big fan of architecting code and maintaining code quality because I beleive
 a well architected application strengthens the foundations and improves scalability. 
 <br/><br/>
